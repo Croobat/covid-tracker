@@ -5,12 +5,8 @@
       Covid-19 Tracker
     </div>
     <p>
-      API by 
-      <a 
-        class="text-blue-300" 
-        href="https://covid19api.com" 
-        target="_blank"
-      >
+      API by
+      <a class="text-blue-300" href="https://covid19api.com" target="_blank">
         covid19api.com
       </a>
     </p>
